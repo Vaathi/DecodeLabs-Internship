@@ -121,7 +121,7 @@ DecodeLabs-Internship
 
 # 👨‍💻 Author
 
-**Karthick M**
+**Muniasamy Karthick M**
 
 AI & Data Science Student
 
